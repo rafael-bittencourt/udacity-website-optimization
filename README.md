@@ -10,7 +10,7 @@ Download the project and open the `index.html` file in a web browser.
 ### Critical Rendering Path:
 The `index.html` file achieves a PageSpeed score of at least 90 for Mobile and Desktop.
 #### Optimizations made:
-- Reorganize the project's folder structure
+- Reorganize the project's folder structure;
 - Update the method to load Google webfont using Web Font Loader - [source](https://github.com/typekit/webfontloader); 
 - Modify Google Analytics script to be asynchronous;
 - Create a smaller version of `pizzeria.jpg`;
